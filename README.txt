@@ -1,0 +1,1 @@
+Backend folder: place all backend code here with the .env already configured.
